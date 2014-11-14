@@ -6,10 +6,10 @@ require 'gi_api/version'
 Gem::Specification.new do |spec|
   spec.name          = "gi_api"
   spec.version       = GiApi::VERSION
-  spec.authors       = ["rsantos"]
-  spec.email         = ["rsantos@gettyimages.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Rod Santos"]
+  spec.email         = ["rod.santos@gettyimages.com"]
+  spec.summary       = %q{ Code snippets to use against Getty Images API. }
+  spec.description   = %q{ Code snippets to use against Getty Images API. }
   spec.homepage      = ""
   spec.license       = "MIT"
 
